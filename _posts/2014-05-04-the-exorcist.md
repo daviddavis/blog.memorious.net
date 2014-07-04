@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'The Exorcist: 40th Anniversary Edition'
+categories: audiobooks horror fiction reading
 ---
 
 I really enjoyed *The Exorcist: 40th Anniversary Edition*. I think a big part

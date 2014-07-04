@@ -2,6 +2,7 @@
 layout: post
 title: "My favorite horror writers"
 image: bierce.jpg
+categories: ['reading', 'fiction', 'literature', 'books', 'horror', 'weird fiction']
 ---
 
 ![Ambrose Bierce](/public/img/posts/bierce.jpg)

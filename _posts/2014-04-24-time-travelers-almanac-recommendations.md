@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Time Traveler's Almanac recommendations"
+categories: reading scifi fiction literature books
 ---
 
 I lent one of my friends *The Time Traveler's Almanac* and he asked for some

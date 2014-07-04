@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Mountain Walked
+categories: ['weird fiction', 'fiction', 'horror', 'reading', 'books', 'centipede press']
 ---
 
 ![Title page of A Mountain Walked](http://i.imgur.com/jtrZLMz.jpg)
@@ -8,7 +9,7 @@ title: A Mountain Walked
 I just got Centipede's recent newsletter and one of their new titles really
 stood out. In July, Centipede Press will be releasing a new anthology of
 Lovecraftian tales by S.T. Joshi called *A Mountain Walks: Great Tales of the
-Cthulhu*. The artwork and authors that are lined up for it look amazing. 
+Cthulhu*. The artwork and authors that are lined up for it look amazing.
 
 From Joshi's blog:
 
@@ -39,13 +40,13 @@ Centipede's newsletter:
 
 I'm definitely excited about the Klein and Ligotti signatures. You never see
 them at conferences so usually the only way you can their signatures is via
-limited edition books. 
+limited edition books.
 
 This will definitely be a must-have for fans of weird fiction. And given the
 amount of content, signature, etc, I think the price is not too bad.
 
 **UPDATE**: Just got the table of contents in this week's Centipede Newsletter.
 Also, [it's available for preorder this week for
-$125](http://www.centipedepress.com/anthologies/mountainwalked.html). 
+$125](http://www.centipedepress.com/anthologies/mountainwalked.html).
 
 ![table of contents](http://i.imgur.com/nlRVh6R.jpg)

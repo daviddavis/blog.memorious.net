@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Time Traveler's Almanac"
+categories: reading scifi fiction literature books
 ---
 
 I just finished *The Time Traveler's Almanac* and I wanted to write down my
