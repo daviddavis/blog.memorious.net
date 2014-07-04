@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Mountain Walked
-categories: ['weird fiction', 'fiction', 'horror', 'reading', 'books', 'centipede press']
+tags: ['weird fiction', 'fiction', 'horror', 'reading', 'books', 'centipede press']
 ---
 
 ![Title page of A Mountain Walked](http://i.imgur.com/jtrZLMz.jpg)

@@ -1,0 +1,22 @@
+.tags {
+  overflow: hidden;
+  margin-top: 2em;
+  margin-bottom: -1em;
+}
+.tags a.tag {
+  color: #666;
+  background: #ededed;
+  display: block;
+  float: left;
+  padding: 4px 8px;
+  margin: 2px 0 2px 8px;
+}
+.tags a.tag:hover {
+  text-decoration: none;
+  background: #efefef;
+  color: #333;
+}
+.tags a.tag:first-child {
+  margin-left: 0;
+}
+

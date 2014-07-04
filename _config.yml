@@ -12,7 +12,7 @@ description:      'My name is David Davis. This is my blog.'
 url:              http://blog.memorious.net
 baseurl:          '/'
 paginate:         5
-categories_path:  /categories/
+tags_path:        /tags/
 
 author:
   name:           'David Davis'

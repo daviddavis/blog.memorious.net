@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Who Let the Dogs Out?"
-categories: music philosophy
+tags: music philosophy
 ---
 
 "Who Let the Dogs Out?" is a existential piece by the philosophers in the late

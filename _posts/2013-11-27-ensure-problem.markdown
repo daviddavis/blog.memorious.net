@@ -2,7 +2,7 @@
 layout: post
 title:  "Ruby Tip of the Day: ensure return"
 date:   2013-11-27 17:53:45
-categories: ['ruby', 'ruby tips', 'programming', 'development']
+tags: ['ruby', 'ruby tips', 'programming', 'development']
 ---
 
 Here's a problem that I ran into recently in Ruby. Let's say you had the
