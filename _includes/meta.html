@@ -1,6 +1,7 @@
 <meta content="{{ site.title }}" property="og:site_name">
 {% if page.title %}
   <meta content="{{ page.title }}" property="og:title">
+  <meta content="{{ page.title }}" name="twitter:title">
 {% else %}
   <meta content="{{ site.title }}" property="og:title">
 {% endif %}
@@ -10,7 +11,13 @@
   <meta content="website" property="og:type">
 {% endif %}
 {% if page.description %}
+  <meta content="{{ page.description }}" property="description">
   <meta content="{{ page.description }}" property="og:description">
+  <meta content="{{ page.description }}" name="twitter:description">
+{% else %}
+  <meta content="{{ site.description }}" property="description">
+  <meta content="{{ site.description }}" property="og:description">
+  <meta content="{{ site.description }}" name="twitter:description">
 {% endif %}
 {% if page.url %}
   <meta content="{{ site.url }}{{ page.url }}" property="og:url">
@@ -21,8 +28,10 @@
 {% endif %}
 {% if page.image %}
   <meta content="{{ site.url }}/public/img/posts/{{ page.image }}" property="og:image">
+  <meta content="{{ site.url }}/public/img/posts/{{ page.image }}" property="twitter:image:src">
 {% else %}
   <meta content="{{ site.url }}/public/img/logo.png" property="og:image">
+  <meta content="{{ site.url }}/public/img/logo.png" property="twitter:image:src">
 {% endif %}
 {% if page.categories %}
   {% for category in page.categories limit:1 %}
@@ -34,3 +43,8 @@
   <meta content="{{ tag }}" property="article:tag">
   {% endfor %}
 {% endif %}
+
+<meta content="{{ author.name }}" name="author">
+<link href="{{ author.gplus }}" rel="author">
+<meta content="@{{ author.twitter }}" name="twitter:site">
+<meta content="@{{ author.twitter }}" name="twitter:creator">

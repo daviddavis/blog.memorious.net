@@ -2,6 +2,7 @@
 layout: post
 title: Horrorstör
 image: horrorstor.jpg
+description: Horrorstör by Grady Hendrix is coming out in September.
 ---
 
 ![Horrorstör cover](/public/img/posts/horrorstor.jpg)

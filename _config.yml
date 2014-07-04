@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Memorious
 tagline:          "Don't Read this blog."
-description:      'My name is David. This is my blog. You can also follow <a href="//twitter.com/davidtdavis">@davidtdavis</a> on Twitter.'
+description:      'My name is David. This is my blog.'
 url:              http://blog.memorious.net
 baseurl:          '/'
 paginate:         5
@@ -16,4 +16,5 @@ paginate:         5
 author:
   name:           'David Davis'
   url:            http://memorious.net
-  twitter:        https://twitter.com/davidtdavis
+  twitter:        davidtdavis
+  gplus:          http://plus.google.com/+DavidDavis42/posts
