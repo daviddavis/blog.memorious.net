@@ -1,7 +1,10 @@
 ---
 layout: post
 title: "My favorite horror writers"
+image: bierce.jpg
 ---
+
+![Ambrose Bierce](/public/img/posts/bierce.jpg)
 
 Stephen King's *Carrie* recently celebrated its 40th anniversary. I've read
 King but have never been able to like his writing very much. I've always felt

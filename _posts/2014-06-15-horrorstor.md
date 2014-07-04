@@ -4,7 +4,8 @@ title: Horrorstör
 image: horrorstor.jpg
 ---
 
-![Horrorstör cover](/assets/img/posts/horrostor.jpg)
+![Horrorstör cover](/public/img/posts/horrostor.jpg)
+
 For all of you Ikeaphobics, there's a new novel out there for you. It's called
 *Horrorstör* and it's written by
 [/r/horrorlit](http://reddit.com/r/horrorlit)'s own [Grady
