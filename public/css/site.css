@@ -4,7 +4,7 @@
   margin-bottom: -1em;
 }
 .tags a.tag {
-  color: #666;
+  color: #686868;
   background: #ededed;
   display: block;
   float: left;
@@ -19,4 +19,11 @@
 .tags a.tag:first-child {
   margin-left: 0;
 }
-
+.related {
+  border: none;
+}
+.post {
+  border-bottom: 1px solid #eee;
+  margin-bottom: 2em;
+  padding-bottom: 1em;
+}
