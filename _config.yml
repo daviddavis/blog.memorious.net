@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Memorious
 tagline:          "Don't Read this blog."
-description:      'My name is David. This is my blog.'
+description:      'My name is David Davis. This is my blog.'
 url:              http://blog.memorious.net
 baseurl:          '/'
 paginate:         5
