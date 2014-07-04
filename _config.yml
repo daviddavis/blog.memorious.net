@@ -19,3 +19,20 @@ author:
   url:            http://memorious.net
   twitter:        davidtdavis
   gplus:          http://plus.google.com/+DavidDavis42/posts
+
+# Prose
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://blog.memorious.net'
+  media: 'public/img/posts/'
+  ignore:
+    - README.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
