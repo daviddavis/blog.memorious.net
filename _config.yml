@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         rdiscount
 highlighter:      pygments
 
 # Permalinks
@@ -25,7 +25,7 @@ author:
 prose:
   rooturl: '_posts'
   siteurl: 'http://blog.memorious.net'
-  media: 'public/img/posts/'
+  media: 'public/img/posts'
   ignore:
     - README.md
     - _config.yml
@@ -33,12 +33,25 @@ prose:
     - /_includes
   metadata:
     _posts:
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+      - name: "image"
+        field:
+          label: "Image"
+          element: "text"
+      - name: "description"
+        field:
+          label: "Description"
+          element: "text"
       - name: "layout"
         field:
           element: "hidden"
           value: "post"
       - name: "categories"
         field:
+          label: Category
           element: "select"
           options:
             - name: "Technology"
