@@ -2,6 +2,7 @@
 layout: post
 title: "Time Traveler's Almanac recommendations"
 tags: reading scifi fiction literature books
+categories: literature
 ---
 
 I lent one of my friends *The Time Traveler's Almanac* and he asked for some

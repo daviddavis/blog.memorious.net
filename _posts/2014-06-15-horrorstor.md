@@ -4,6 +4,7 @@ title: Horrorstör
 image: horrorstor.jpg
 description: Horrorstör by Grady Hendrix is coming out in September.
 tags: horror books reading fiction
+categories: literature
 ---
 
 ![Horrorstör cover](/public/img/posts/horrorstor.jpg)

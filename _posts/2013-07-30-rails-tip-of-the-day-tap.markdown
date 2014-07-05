@@ -3,6 +3,7 @@ layout: post
 title:  "Ruby Tip of the Day: #tap"
 date:   2013-07-30 14:53:45
 tags: ['ruby', 'ruby tips', 'programming', 'development', 'rails']
+categories: technology
 ---
 
 Have you ever encountered the following problem: you go to find out what's

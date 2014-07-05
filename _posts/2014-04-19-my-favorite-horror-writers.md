@@ -3,6 +3,7 @@ layout: post
 title: "My favorite horror writers"
 image: bierce.jpg
 tags: ['reading', 'fiction', 'literature', 'books', 'horror', 'weird fiction']
+categories: literature
 ---
 
 ![Ambrose Bierce](/public/img/posts/bierce.jpg)

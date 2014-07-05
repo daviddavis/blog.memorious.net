@@ -2,6 +2,7 @@
 layout: post
 title: "The Time Traveler's Almanac"
 tags: reading scifi fiction literature books
+categories: literature
 ---
 
 I just finished *The Time Traveler's Almanac* and I wanted to write down my

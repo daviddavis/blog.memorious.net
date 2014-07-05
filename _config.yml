@@ -13,6 +13,7 @@ url:              http://blog.memorious.net
 baseurl:          '/'
 paginate:         5
 tags_path:        /tags/
+categories_path:  /categories/
 
 author:
   name:           'David Davis'
@@ -36,3 +37,15 @@ prose:
         field:
           element: "hidden"
           value: "post"
+      - name: "categories"
+        field:
+          element: "select"
+          options:
+            - name: "Technology"
+              value: "technology"
+            - name: "Literature"
+              value: "literature"
+            - name: "Music"
+              value: "music"
+            - name: "Other"
+              value: "other"

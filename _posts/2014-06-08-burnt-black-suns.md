@@ -2,6 +2,7 @@
 layout: post
 title: Burnt Black Suns
 tags: ['weird fiction', 'fiction', 'horror', 'reading', 'books']
+categories: literature
 ---
 
 One of the books I was really excited about this year was [*Burnt Black
