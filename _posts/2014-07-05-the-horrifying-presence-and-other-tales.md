@@ -12,6 +12,7 @@ tags:
   - fantastique
   - french
 description: "My review of \"The Horrifying Presence and Other Tales\" by Jean Ray"
+image: horrifyingpresence.jpg
 ---
 
 ![Horrifying Presence](/public/img/posts/horrifyingpresence.jpg)
