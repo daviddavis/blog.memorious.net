@@ -7,7 +7,7 @@ tags: horror books reading fiction
 categories: literature
 ---
 
-![Horrorstör cover](/public/img/posts/horrorstor.jpg)
+![Horrorstör cover](/public/img/posts/horrorstor.jpg =680x)
 
 For all of you Ikeaphobics, there's a new novel out there for you. It's called
 *Horrorstör* and it's written by

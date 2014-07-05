@@ -27,3 +27,15 @@
   margin-bottom: 2em;
   padding-bottom: 1em;
 }
+h1.post-title {
+  font-weight: 800;
+  font-size: 43px;
+}
+span.post-date {
+  font-family: "PT Sans", Helvetica, Arial, Sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+}
+span.post-date .fa {
+  margin-right: 4px;
+}

@@ -14,6 +14,7 @@ baseurl:          '/'
 paginate:         5
 tags_path:        /tags/
 categories_path:  /categories/
+date_format:      "%B %e, %Y"
 
 author:
   name:           'David Davis'
