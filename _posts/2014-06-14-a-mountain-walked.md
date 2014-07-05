@@ -1,8 +1,15 @@
 ---
 layout: post
 title: A Mountain Walked
-tags: ['weird fiction', 'fiction', 'horror', 'reading', 'books', 'centipede press']
+tags: 
+  - weird fiction
+  - fiction
+  - horror
+  - reading
+  - books
+  - centipede press
 categories: literature
+published: true
 ---
 
 ![Title page of A Mountain Walked](http://i.imgur.com/jtrZLMz.jpg)
@@ -29,8 +36,6 @@ The book is oversized at 11 x 7 inches and contains 692 pages. Joshi hints on
 his blog that the price may be around $125 but is not totally sure. Centipede
 also says they'll have the book on sale for the first couple weeks and they
 expect to have 500 copies sometime in mid to late July.
-
-![Man with the Horn](http://i.imgur.com/DSZYHaz.jpg)
 
 Perhaps the most amazing part of the book though is the signatures. From
 Centipede's newsletter:
