@@ -21,7 +21,7 @@ author:
   name:           'David Davis'
   url:            http://memorious.net
   twitter:        davidtdavis
-  gplus:          http://plus.google.com/+DavidDavis42/posts
+  gplus:          "https://plus.google.com/+DavidDavis42/posts"
 
 # comments
 disqus:
