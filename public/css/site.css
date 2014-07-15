@@ -39,3 +39,6 @@ span.post-date {
 span.post-date .fa {
   margin-right: 4px;
 }
+blockquote {
+  text-align: justify;
+}
