@@ -42,3 +42,9 @@ span.post-date .fa {
 blockquote {
   text-align: justify;
 }
+
+h3.masthead-title a {
+  background: url(/public/img/book.png) 0 -2px no-repeat;
+  background-size: 33px;
+  padding-left: 40px;
+}
