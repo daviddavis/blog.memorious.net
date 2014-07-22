@@ -29,3 +29,10 @@ Others*](http://darkrenaissance.com/product/the-dead-valley-and-others-h-p-lovec
 is not out yet but it looks like it should be coming soon. Overall, it looks
 like a solid collection of stories for people who like early horror and weird
 fiction.
+
+###UPDATE (July 22, 2014)
+
+I got my copy of *The Ghost of Fear and Others* in the mail today and it's
+quite a fine looking book. I can't wait to read it. It arrived pretty quickly
+after I ordered it so I'm very happy with Dark Renaissance. I'll try to write a
+review after I read it.
