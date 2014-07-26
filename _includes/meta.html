@@ -14,6 +14,10 @@
   <meta content="{{ page.description }}" property="description">
   <meta content="{{ page.description }}" property="og:description">
   <meta content="{{ page.description }}" name="twitter:description">
+{% elsif page.excerpt %}
+  <meta content="{{ page.excerpt | strip_html | strip_newlines }}" property="description">
+  <meta content="{{ page.excerpt | strip_html | strip_newlines }}" property="og:description">
+  <meta content="{{ page.excerpt | strip_html | strip_newlines }}" name="twitter:description">
 {% else %}
   <meta content="{{ site.description }}" property="description">
   <meta content="{{ site.description }}" property="og:description">
