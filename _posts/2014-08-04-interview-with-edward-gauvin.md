@@ -9,7 +9,7 @@ categories: literature
 A few weeks ago I happened to get in contact with Edward Gauvin after making [a
 post about French Weird Fiction]({% post_url 2014-07-18-l-cole-de-l-trange %}).
 I then asked around in a community I moderate on Reddit dedicated to Weird
-Fiction called [WeirdLit](http://reddit.com/r/WeirdLit) about doing an
+Fiction called [WeirdLit](http://www.reddit.com/r/WeirdLit) about doing an
 interview with Edward Gauvin. We compiled [some questions in a
 post](http://redd.it/2c6hfy) then sent them over to Mr. Gauvin who was kind
 enough to provide us with some really insightful answers. We've done a number
@@ -17,7 +17,8 @@ of AMAs and interviews but I have to say that this is one of the most
 interesting ones (for me at least). Due to its length, I'm posting a complete
 copy here as Reddit limits posts and comments to 1500 characters.
 
-**What are you currently working on or have recently worked on that may be of interest to us?**
+**What are you currently working on or have recently worked on that may be of
+interest to us?**
 
 So… for two years now I’ve been talking to a number of different publishers,
 usually small presses, about an anthology of the Francophone (French/Belgian)
@@ -32,11 +33,9 @@ England grant for this project, and Tartarus Press was involved, but that fell
 through because, as you can imagine, this project is kind of a rights
 nightmare, both time- and money-wise. When PEN England’s funding deadline
 passed, there was talk of running a Kickstarter for it, which Jeff VanderMeer
-would help publicize through *Weird Fiction Review*. Most recently, I’ve been talking with a
-new L.A. press about it, Unnamed Press (literally). I’ve gotten lots of
-positive feedback both about the project and the actual manuscript (which I’m
-happy to share, since like I say, most of the pieces in it have already
-appeared here or there).
+would help publicize through *Weird Fiction Review*. Most recently, I’ve been
+talking with a new L.A. press about it, Unnamed Press (literally). I’ve gotten
+lots of positive feedback both about the project and the actual manuscript.
 
 Since you differentiate (quite rightly) between the Weird and fantastical
 traditions, I’d say this probably errs on the fantastical side, but given the
@@ -53,10 +52,10 @@ comics, “literary” fiction, a noir novel. In between those I hope to squeeze
 a few more short stories toward the anthology. If you liked [Belgian Bernard
 Quiriny’s “Rara Avis” at *Weird Fiction
 Review*](http://weirdfictionreview.com/2013/04/rara-avis), I hope to get a few
-more of his stories done this month; the small press A Strange Object is
-considering a collection of his, and needs a few more stories to make a
-decision. And last month The Collagist published a story by Belgian Anne
-Richter (whom I’ve written about at
+more of his stories done this month; a small Austin-based press is considering
+a collection of his, and needs a few more stories to make a decision. And last
+month The Collagist published a story by Belgian Anne Richter (whom I’ve
+written about at
 [*WFR*](http://weirdfictionreview.com/2012/09/two-by-anne-richter/)), about
 aristocratic decline, incest, and animal metamorphosis: “The Great Pity of the
 Zintram Family.” Another story of Richter’s will be in the VanderMeer’s
@@ -84,9 +83,9 @@ Belgian weird was like a national pastime; though some authors specialized in
 it, like Ray and Owen, a lot of authors just sort of dipped in for one or two
 books, often story collections, out of a career spent in other branches of
 literature. There’s a definite sense of a tradition, that this is something
-Belgian authors **do**—which is lacking or somewhat tenuous in France. The Belgian
-fantastic also has a high absurdist quotient, both from typical Belgian humor
-and the Belgian Surrealists (after they broke off from the French).
+Belgian authors **do**—which is lacking or somewhat tenuous in France. The
+Belgian fantastic also has a high absurdist quotient, both from typical Belgian
+humor and the Belgian Surrealists (after they broke off from the French).
 
 The French fantastic often features less adventure-based plots, and denser
 prose. It can be more self-consciously literary, and the references are often
@@ -164,21 +163,16 @@ think it might take to increase interest in this author in the English-speaking
 world?**
 
 Basically, from what I understand, the woman who currently handles Ray’s estate
-and calls herself his agent is a crazy bitch who is impossible to get a hold of
-and asks for exorbitant fees when you finally reach her, then reneges on
-contracts, etc. This is from multiple sources: the VanderMeers, translators,
-The Circle of Friends of Jean Ray (an official fan club in Ghent)... That’s why
-Ray publications have been few and far between in English; she thinks Ray’s a
-world class author and deserves better than any of the small but devoted
-presses who are actually interested in publishing him, and makes it nigh
-impossible for them or anyone else to do so, not understanding that she’s
-actually hurting Ray’s rep abroad and preventing him from reaching the
-audiences he could. All that said, I know my publisher at Wakefield Press would
-really love to do some more Ray stories, so there’s always hope.
+is hesitant to give permission to publishers to publish Ray. That’s why Ray
+publications have been few and far between in English; she thinks Ray’s a world
+class author and deserves better than any of the small but devoted presses who
+are actually interested in publishing him. All that said, I know my publisher
+at Wakefield Press would really love to do some more Ray stories, so there’s
+always hope.
 
 As for the second part of the question: well, readers like you.
 
-**You mentioned in a post on smallbeer press's website that you prefer "The
+**You mentioned in a post on Small Beer Press's website that you prefer "The
 Shadowy Alley" as an English translation of "La ruelle ténébreuse” because
 "Ray’s voice always lends the sinister a slightly mocking air." Can you expand
 on what you mean by a "mocking" air and how it is manifested in his work?**
@@ -207,9 +201,10 @@ pieces I liked most and the pieces I did the best aren’t always the same.
 * “The Puppets” by Jean-Christophe Duchon-Doris (in *The Uncanny Reader*)
 * “The Society Tiger” by Jean Ferry… this really is a classic and I’m glad I
 got to do a version of it. It deserves to be well-known.
-* “The Red Loaf” by André Pieyre de Mandiargues: one of the harder translations
-I’ve ever done, because of the floridly Decadent voice. It’s full-on legitimate
-midcentury Weird. A few of Mandiargues’ stories are available here and there in
+* [“The Red Loaf”](http://wordswithoutborders.org/article/the-red-loaf) by
+André Pieyre de Mandiargues: one of the harder translations I’ve ever done,
+because of the floridly Decadent voice. It’s full-on legitimate midcentury
+Weird. A few of Mandiargues’ stories are available here and there in
 out-of-print anthologies; for Weirdies I recommend especially “The Pommeraye
 Arcade” in J.H. Matthews’ *The Custom-House of Desire*. Stick around till the
 end!
