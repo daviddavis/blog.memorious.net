@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "Schalken the Painter"
 date: "2014-08-10 18:06:27"
 tags: ["fiction", "literary", "weird fiction", "reading", "books"]
@@ -24,12 +25,12 @@ Smoke*](http://www.swanriverpress.ie/title_shadowandsmoke.html).
 
 #Schalken the Painter
 
-*"For he is not a man as I am that  
-we should come together; neither is  
-there any that might lay his hand  
-upon us both. Let him, therefore,  
-take his rod away from me, and let  
-not his fear terrify me."*  
+*"For he is not a man as I am that
+we should come together; neither is
+there any that might lay his hand
+upon us both. Let him, therefore,
+take his rod away from me, and let
+not his fear terrify me."*
 
 There exists, at this moment, in good preservation a remarkable work of
 Schalken's. The curious management of its lights constitutes, as usual in his
