@@ -1,6 +1,7 @@
 ---
 layout: post
 published: false
+published: false
 title: "Schalken the Painter"
 date: "2014-08-10 18:06:27"
 tags: ["fiction", "literary", "weird fiction", "reading", "books"]

@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: H. P. Lovecraft’s Favorite Horror Stories
 categories: literature
 image: ghost_of_fear.jpg

@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "Strantzas's Favorite Weird Stories"
 date: "2014-08-02 16:46:08"
 tags: ["weird fiction", "books", "fiction", "reading", "literature"]

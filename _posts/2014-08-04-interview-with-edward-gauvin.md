@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "Interview with Edward Gauvin"
 date: "2014-08-04 17:57:24"
 tags: ["reading", "books", "weird fiction", "literature", "fiction", "fantastique"]

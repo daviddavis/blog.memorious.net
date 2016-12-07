@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "My favorite horror writers"
 image: bierce.jpg
 tags: ['reading', 'fiction', 'literature', 'books', 'horror', 'weird fiction']

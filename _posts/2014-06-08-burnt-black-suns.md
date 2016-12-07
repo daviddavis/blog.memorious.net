@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: Burnt Black Suns
 tags: ['weird fiction', 'fiction', 'horror', 'reading', 'books']
 categories: literature

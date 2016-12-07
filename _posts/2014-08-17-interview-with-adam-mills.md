@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: "Interview with Adam Mills"
 date: "2014-08-17 09:00:18"
 tags: ["weird fiction", "literature", "books", "reading", "weird fiction review"]

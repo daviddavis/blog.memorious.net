@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: A Mountain Walked
 tags: 
   - weird fiction
@@ -9,7 +10,6 @@ tags:
   - books
   - centipede press
 categories: literature
-published: true
 ---
 
 ![Title page of A Mountain Walked](http://i.imgur.com/jtrZLMz.jpg)

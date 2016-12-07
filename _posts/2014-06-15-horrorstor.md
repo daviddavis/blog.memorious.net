@@ -1,5 +1,6 @@
 ---
 layout: post
+published: false
 title: Horrorstör
 image: horrorstor.jpg
 description: Horrorstör by Grady Hendrix is coming out in September.
